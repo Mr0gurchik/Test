@@ -6,7 +6,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
-//для практической
+//Новый текст
 
 namespace Test1ISP
 {
@@ -300,3 +300,4 @@ namespace Test1ISP
         }
     }
 }
+
